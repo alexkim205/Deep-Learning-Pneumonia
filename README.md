@@ -1,7 +1,5 @@
 # A Convolutional Neural Network to Diagnose Pneumonia from Frontal Chest X-Ray Images
 
-#### Alex Kim (agk2144) and Kevin Mao (km3290)
-
 ## Abstract
 
 Pneumonia is the leading cause of death among children under 5 years old \cite{unicef}, and early diagnosis in critical for proper treatment. In this paper, we show that transfer learning applied to large convolutional neural networks can be used to diagnose pneumonia using a Kaggle dataset of 5,858 frontal chest X-ray images \cite{kaggle} from 5,232 unique children. We were able to replicate previous work and build on this by developing a multi-class model that could differentiate viral and bacterial pneumonia
@@ -10,3 +8,7 @@ We developed two models, for differentiating between (1) normal and infected ima
 
 We have shown that our model is capable of binary and 3-class classification of chest X-ray images for pneumonia, but more can be done to further improve performance.
 
+
+## Authors
+
+Alex Kim (agk2144) and Kevin Mao (km3290)
